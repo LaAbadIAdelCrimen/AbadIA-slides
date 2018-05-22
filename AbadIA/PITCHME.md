@@ -4,6 +4,105 @@
 
 ### The AI that play and (will) solve "The Abbey of Crime" game 
 
+---
+
+## Agenda
+
+- Reinforcement Learning Intro
+
+- The AbadIA project
+
+---
+
+## What's The Abbey of crime 
+
+meter slides de la presentación actual
+
+---
+
+## The Challenge 
+
+
+---
+
+## How will do it
+
+
+---
+
+## The strategy 
+
+--- 
+
+## The game engine tuning
+ 
+---
+
+## The web server 
+
+- The awesome idea we had: include a web server.|
+- Now we have a REST based API.|
+- Two way communication:
+    - We send actions.|
+        - Moves
+        - Resets 
+        - Save/Load states|
+    - We got information.|
+        - State dumps
+        - Checkpoints
+---
+    
+## How to scale
+
+- At the beginning a laptop was enough.|
+- But very soon you need more CPU/GPU.| 
+- Then product like Google Cloud is your best ally.| 
+- We create a Dockerfile, so now we can execute lots of instances of the game in parallel.
+
+--- 
+
+## Gathering information
+
+- We recollect a lot of information: 
+    - Game Info (timestamps, rewards, bonus, obsequium)
+    - Games moves (state, action, reward, new_state)
+    - Checkpoints (to restore the game at an interesting time)
+    - Models (for recovering good models o just make a benchmark)
+
+
+---
+
+## There are a lot of plumbing
+
+- It takes a lot of time to get all the parts working all together.
+- Building tests, testing every piece, every option. 
+- Sometimes I feel like I was Mario Bros
+
+(Include a picture of Mario Bros)   
+
+--- 
+## State of the Project AbadIA
+
+
+--- 
+
+
+## The Team
+
+---
+
+## Next steps
+
+---
+
+## How to Collaborate
+
+
+
+
+
+
+
 ---?image=../assets/image/lukas_blazek.jpg
 
 ## Tips!
