@@ -1,10 +1,10 @@
----?image=assets/image/ivan_televnyy.jpg
+---?image=../assets/image/ivan_televnyy.jpg
 
-# Timber
+# AbadIA  
 
-### A GitPitch Presentation Template
+### The AI that play and (will) solve "The Abbey of Crime" game 
 
----?image=assets/image/lukas_blazek.jpg
+---?image=../assets/image/lukas_blazek.jpg
 
 ## Tips!
 
