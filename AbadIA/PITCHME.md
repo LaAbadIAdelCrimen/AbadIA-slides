@@ -51,7 +51,10 @@ meter slides de la presentación actual
         - State dumps
         - Checkpoints
 ---
-    
+## make a fast demo or video with curl 
+## some dumps, etc
+
+---    
 ## How to scale
 
 - At the beginning a laptop was enough.|
@@ -59,16 +62,19 @@ meter slides de la presentación actual
 - Then product like Google Cloud is your best ally.| 
 - We create a Dockerfile, so now we can execute lots of instances of the game in parallel.
 
+note: If we use Google Cloud services like GKE, we can launch hundred of games in parallel.
+
 --- 
 
 ## Gathering information
 
 - We recollect a lot of information: 
-    - Game Info (timestamps, rewards, bonus, obsequium)
-    - Games moves (state, action, reward, new_state)
-    - Checkpoints (to restore the game at an interesting time)
-    - Models (for recovering good models o just make a benchmark)
+    - Game Info (timestamps, rewards, bonus, obsequium)|
+    - Games moves (state, action, reward, new_state)|
+    - Checkpoints (to restore the game at an interesting time)|
+    - Models (for recovering good models o just make a benchmark)|
 
+** Show some logs
 
 ---
 
@@ -80,6 +86,29 @@ meter slides de la presentación actual
 
 (Include a picture of Mario Bros)   
 
+--- 
+
+## Managing the information at scale 
+
+- As you grow the number of parallel game servers, the amount of information is bigger too.
+- We can use Google Storage Buckets to store json.|
+- We can use Bigquery to store all the info:|
+    - Cheap storage.| 
+    - Very Fast Queries.|
+    - Billions of records (games, moves, etc)
+
+---
+
+## Now we need a playground to training the agents
+
+- One the most frequently used tool is OpenAI Gym. 
+- So we design an AbadIA gym. 
+- The gym is an standarized place to train and interact with Reinforcement Learning agents.
+- In our project the gym is framework to wrap the game engine.
+- You can get it or fork it in this Github Repo: 
+https://www.github.com/LaAbadIAdelCrimen/abadia-gym
+
+--- 
 --- 
 ## State of the Project AbadIA
 
