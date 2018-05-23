@@ -14,14 +14,36 @@
 
 ---
 
-## What's The Abbey of crime 
+## The Game
 
-meter slides de la presentación actual
+- Programmed in 1987 by **Paco Menéndez** with graphics made by **Juan Delcán**.
+- Was originally conceived as a version of **Umberto Eco**'s book **The Name of the Rose**.
+- Being considered one of the perfect ten games for Spectrum 128 according to Retro Gamer.
+- Cult classic in Spain.
+
++++
+
+### Official stamp
+
+![Stamp](https://www.correos.es/ss/Satellite?blobcol=urldata&blobheadername1=Content-Disposition&blobheadervalue1=filena
+me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs&blobwhere=1365530659478&ssbinary=true)
+
++++
+
+### Museum
+
+![Museum1](https://pbs.twimg.com/media/DO1d5JjW4AEnt_5.jpg)
+
+![Museum2](https://www.fi.upm.es/GestorTablon/GTuploads/3215-4-DSC00326_FB.jpg)
 
 ---
 
 ## The Challenge 
 
+- 10^80 Number of atoms in our universe (Hawking said there are more)
+- 10^120 Number of chess legal moves
+- 10^761 Number of GO legal moves
+- 5^N+4 abadIA legal moves where N is the depth of the game. For N=10000, 5^10004
 
 ---
 
