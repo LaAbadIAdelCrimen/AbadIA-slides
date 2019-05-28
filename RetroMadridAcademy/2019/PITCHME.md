@@ -99,6 +99,10 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 
 # Tomas falsas
 
+---?image=https://slack-files.com/TAA21ESRJ-FASEN9VV5-f67387e257
+
+---?image=https://slack-files.com/TAA21ESRJ-FARFWPP26-a5f30563ce
+
 +++?image=https://slack-files.com/TAA21ESRJ-FASEN9VV5-f67387e257
 
 +++?image=https://slack-files.com/TAA21ESRJ-FARFWPP26-a5f30563ce
@@ -111,7 +115,7 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 
 +++
 
-@fa[kiss-wink-heart fa-10x](Gracias a Manuel Pazos por la depuración del código original)
+@fa[kiss-wink-heart fa-5x](Gracias a Manuel Pazos por la depuración del código original)
 
 ---
 
