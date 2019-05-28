@@ -2,7 +2,7 @@
 
 # AbadIA  
 
-### The AI that play and (will) solve "The Abbey of Crime" game 
+### La Inteligencia Artificial que juega (y resolverá) "La abadía del crimen" 
 
 ---
 
@@ -14,27 +14,59 @@
 
 ---
 
-## The Game
+## ¿alguien en RetroMadridAcademy NO conoce EL JUEGO?
 
-- Programmed in 1987 by **Paco Menéndez** with graphics made by **Juan Delcán**.
-- Was originally conceived as a version of **Umberto Eco**'s book **The Name of the Rose**.
-- Being considered one of the perfect ten games for Spectrum 128 according to Retro Gamer.
-- Cult classic in Spain.
++++
+## El juego
+
+- Programado en 1987 por **Paco Menéndez** con gráficos de **Juan Delcán**.
+- Basado de forma no oficial en el libro de **Umberto Eco** **"El nombre de la rosa"**.
+- Considerado por "Retro Gamer" uno de los 10 juegos perfecto para Spectrum 128.
+- Clásico de culto en España.
 
 +++
 
-### Official stamp
+### Sello oficial
 
 ![Stamp](https://www.correos.es/ss/Satellite?blobcol=urldata&blobheadername1=Content-Disposition&blobheadervalue1=filena
 me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs&blobwhere=1365530659478&ssbinary=true)
 
 +++
 
-### Museum
+### Museo
 
 ![Museum1](https://pbs.twimg.com/media/DO1d5JjW4AEnt_5.jpg)
 
 ![Museum2](https://www.fi.upm.es/GestorTablon/GTuploads/3215-4-DSC00326_FB.jpg)
+
+---
+
+## El desafío
+
+---
+
+## El desafío
+### ¿cómo maneja la IA el juego?
+
++++
+
+![Video](https://www.youtube.com/watch?v=HnA5WHxMIUo)
+
+---
+
+## El desafío
+### ¿cómo recompenso a la IA cuando juega bien?
+
++++
+
+### Falta enlace video jugando a Pong
+
++++
+
+### Falta video jugando a la abadía y 
+
+
+### La recompensa
 
 ---
 
@@ -44,6 +76,24 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 - 10^120 Number of chess legal moves
 - 10^761 Number of GO legal moves
 - 5^N+4 abadIA legal moves where N is the depth of the game. For N=10000, 5^10004
+
+---
+
+## Las soluciones
+
++++
+
+### Vigasoco
+- Reconstrucción en C++ para Win32 y DirectX de "La abadía del crimen" por Manuel Abadía
+- Parte del desensamblado del original para CPC464 realizado por Manuel Abadía
+- VigasocoSDL adapta el código SDL y lo hace portable a múltiples sistemas
+
++++
+
+### API (casi) REST
+
+- FALTA Enlace al Swagger
+- ¿demo con ngrok?
 
 ---
 
