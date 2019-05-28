@@ -63,7 +63,7 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 
 +++
 
-### Falta video jugando a la abadía y 
+### Falta video jugando a la abadía y preguntando ¿es este movimiento bueno?
 
 
 ### La recompensa
@@ -94,6 +94,30 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 
 - FALTA Enlace al Swagger
 - ¿demo con ngrok?
+
+---
+
+# Tomas falsas
+
++++?image=https://slack-files.com/TAA21ESRJ-FASEN9VV5-f67387e257
+
++++?image=https://slack-files.com/TAA21ESRJ-FARFWPP26-a5f30563ce
+
++++?image=https://slack-files.com/TAA21ESRJ-FAQLYCZK3-23dceac819
+
++++?image=https://slack-files.com/TAA21ESRJ-FAQVCHS73-fabe2f50a1
+
++++?image=https://slack-files.com/TAA21ESRJ-FAQQW27GQ-d1a3203f2f
+
++++
+
+@fa[kiss-wink-heart fa-10x](Gracias a Manuel Pazos por la depuración del código original)
+
+---
+
+## Como colaborar
+- [Slack](https://laabadiadelcrimen.slack.com)
+- [Organización en GitHub](https://github.com/LaAbadIAdelCrimen)
 
 ---
 
