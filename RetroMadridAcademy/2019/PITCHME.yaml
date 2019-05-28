@@ -1,0 +1,13 @@
+#
+# GitPitch Slideshow Custom Settings
+#
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+theme : beige
+theme-override : ../assets/css/PITCHME.css
+highlight : hybrid
+logo : ../assets/image/logo.png
+background : ../assets/image/felicia_d_ascanio.jpg
+transition : none
+published : true
+footnote : "RetroMadrid Academy 2019: AbadIA"
