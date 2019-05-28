@@ -115,13 +115,15 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 
 +++
 
-@fa[kiss-wink-heart fa-5x](Gracias a Manuel Pazos por la depuración del código original)
+@fa[kiss-wink-heart fa-3x](Gracias a Manuel Pazos por la depuración del código original)
 
 ---
 
 ## Como colaborar
 - [Slack](https://laabadiadelcrimen.slack.com)
+  + [https://laabadiadelcrimen.slack.com](https://laabadiadelcrimen.slack.com)
 - [Organización en GitHub](https://github.com/LaAbadIAdelCrimen)
+  + [https://github.com/LaAbadIAdelCrimen](https://github.com/LaAbadIAdelCrimen)
 
 ---
 
