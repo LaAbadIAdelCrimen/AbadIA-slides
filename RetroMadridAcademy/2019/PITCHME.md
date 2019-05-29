@@ -1,3 +1,11 @@
+---
+
+# AbadIA  
+
+### La Inteligencia Artificial que juega 
+### "La abadía del crimen" 
+
+
 ---?image=../../assets/image/ivan_televnyy.jpg
 
 # AbadIA  
