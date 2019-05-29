@@ -49,8 +49,12 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 
 ---
 
-## ¿alguien presente se lo ha acabado? |
-### Sin guía
+## ¿alguien presente se lo ha acabado? 
+
+---
+
+## ¿alguien presente se lo ha acabado?
+### ... sin guía
 
 ---
 
@@ -112,7 +116,15 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 
 # Tomas falsas
 
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+
 ---?image=https://files.slack.com/files-pri/TAA21ESRJ-FASEN9VV5/image.png?pub_secret=f67387e257
+
+---?image=../../assets/image/toma-falsa-1.png
+
+2 niveles
+
+---?image=assets/image/toma-falsa-1.png
 
 ---?image=https://files.slack.com/files-pri/TAA21ESRJ-FARFWPP26/image.png?pub_secret=a5f30563ce
 
@@ -129,6 +141,12 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 +++
 
 @fa[kiss-wink-heart fa-3x](Gracias a Manuel Pazos por la depuración del código original)
+
++++?image=../../assets/image/toma-falsa-1.png
+
+2 niveles
+
++++?image=assets/image/toma-falsa-1.png
 
 ---
 
