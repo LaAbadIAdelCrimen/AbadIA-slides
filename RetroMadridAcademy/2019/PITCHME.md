@@ -1,4 +1,4 @@
----?image=../assets/image/ivan_televnyy.jpg
+---?image=../../assets/image/ivan_televnyy.jpg
 
 # AbadIA  
 
@@ -38,6 +38,11 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 ![Museum1](https://pbs.twimg.com/media/DO1d5JjW4AEnt_5.jpg)
 
 ![Museum2](https://www.fi.upm.es/GestorTablon/GTuploads/3215-4-DSC00326_FB.jpg)
+
+---
+
+## ¿alguien presente se lo ha acabado? |
+### Sin guía
 
 ---
 
@@ -99,19 +104,19 @@ me%3Dboc_TIC_Videojuegos_Abadia_Crimen_b1m31.jpg&blobkey=id&blobtable=MungoBlobs
 
 # Tomas falsas
 
----?image=https://slack-files.com/TAA21ESRJ-FASEN9VV5-f67387e257
+---?image=https://files.slack.com/files-pri/TAA21ESRJ-FASEN9VV5/image.png?pub_secret=f67387e257
 
----?image=https://slack-files.com/TAA21ESRJ-FARFWPP26-a5f30563ce
+---?image=https://files.slack.com/files-pri/TAA21ESRJ-FARFWPP26/image.png?pub_secret=a5f30563ce
 
-+++?image=https://slack-files.com/TAA21ESRJ-FASEN9VV5-f67387e257
++++?image=https://files.slack.com/files-pri/TAA21ESRJ-FASEN9VV5/image.png?pub_secret=f67387e257
 
-+++?image=https://slack-files.com/TAA21ESRJ-FARFWPP26-a5f30563ce
++++?image=https://files.slack.com/files-pri/TAA21ESRJ-FARFWPP26/image.png?pub_secret=a5f30563ce
 
-+++?image=https://slack-files.com/TAA21ESRJ-FAQLYCZK3-23dceac819
++++?image=https://files.slack.com/files-pri/TAA21ESRJ-FAQLYCZK3/image.png?pub_secret=23dceac819
 
-+++?image=https://slack-files.com/TAA21ESRJ-FAQVCHS73-fabe2f50a1
++++?image=https://files.slack.com/files-pri/TAA21ESRJ-FAQVCHS73/image.png?pub_secret=fabe2f50a1
 
-+++?image=https://slack-files.com/TAA21ESRJ-FAQQW27GQ-d1a3203f2f
++++?image=https://files.slack.com/files-pri/TAA21ESRJ-FAQQW27GQ/image.png?pub_secret=d1a3203f2f
 
 +++
 
